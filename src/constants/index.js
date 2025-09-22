@@ -227,7 +227,7 @@ const socialImgs = [
   {
     name: "linkedin",
     imgPath: "/images/icons8-linkedin.svg",
-    url: "https://linkedin.com/in/pradham-l-raj-280335281"
+    url: "https://linkedin.com/in/pradhamlr"
   },
   {
     name: "github",
